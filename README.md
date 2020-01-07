@@ -1,2 +1,2 @@
 # zhihuDaily
-知乎日报
+知乎日报PC
