@@ -9,6 +9,8 @@ node proxy.js
 
 npm run dev 
 
+#每日推荐页
 ![image](https://github.com/huaweimin/zhihuDaily/blob/master/first.png)
 
+#评论
 ![image](https://github.com/huaweimin/zhihuDaily/blob/master/commit.png)
